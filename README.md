@@ -1,4 +1,4 @@
-# Investigating Customer Segmentation for Arvato Financial Services
+# Segmentation for Arvato Financial Services
 
 ## Project Motivation
 
