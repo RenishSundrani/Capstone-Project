@@ -8,6 +8,26 @@ The goal of this project is to predict which individuals are most likely to conv
 
 - A Descriptive Jupyter Notebook
 
+## Libraries/Dependencies Required
+-Numpy
+-Pandas
+-Seaborn
+-ast
+-lightgbm
+-Matplotlib.pyplot
+-Matplotlib.ticker
+-random
+-from helper import clean_data, clean_data_Kaggle, training_1, training_2, new_feature_1, new_feature_2, plot, print_importances, scree_plot
+-from sklearn.model_selection import KFold, StratifiedKFold
+-from sklearn.metrics import mean_squared_error
+-from sklearn.preprocessing import Imputer
+-from sklearn.preprocessing import StandardScaler
+-from sklearn.metrics import roc_auc_score
+-from sklearn.cluster import KMeans
+-from sklearn.decomposition import PCA
+-from sklearn.model_selection import train_test_split
+
+
 ## Results of the analysis
 
 Results and discussion were published on Medium: [Segmentation Report for Arvato Financial Services](https://medium.com/@reni.sundrani/segmentation-report-for-arvato-financial-services-aa1f604c3fdf)
